@@ -7,8 +7,8 @@ Projects
 1.Automatic Speech Recognition (ASR)
 2.Text to Text Generation
 3.Image Captioning with Conditional Generation
-4.Image Question Answering
-5.Image Retrieval
+4.Image Question Answering (From different Images)
+5.Image Retrieval 
 6.Image Segmentation
 7.Object Detection and Text-to-Speech (TTS)
 8.Sentence Transformers
